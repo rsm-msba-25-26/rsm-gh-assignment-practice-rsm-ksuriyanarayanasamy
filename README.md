@@ -34,7 +34,7 @@ Provide the information requested below:
 - Last name: Suriyanarayanasamy
 - First (or preferred) name: Karthick Raja
 - Favorite food: Parotta
-- Favorite recent Netflix movie or show: One Punch man
+- Favorite recent Netflix movie or show: One Punch ma
 
 ---
 
